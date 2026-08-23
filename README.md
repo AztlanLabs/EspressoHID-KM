@@ -1,6 +1,6 @@
-# EspressoHID: StayAwake
+# EspressoHID: KM (Keyboard and Mouse)
 
-EspressoHID: StayAwake is a Hardware HID Keyboard a free and open-source ESP32-S3 USB HID activity simulator that presents itself as a regular keyboard, performs subtle keep-awake actions, and exposes a phone-friendly web dashboard for provisioning, control, and OTA updates.
+EspressoHID: KM over IP is a Hardware HID Keyboard a free and open-source ESP32-S3 USB HID activity simulator that presents itself as a regular keyboard, performs subtle keep-awake actions, and exposes a phone-friendly web dashboard for provisioning, control, and OTA updates.
 
 It is designed for authorized lab, kiosk, demo, and test environments where you want device-side activity simulation without installing software on the host machine.
 
